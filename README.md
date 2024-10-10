@@ -1,11 +1,17 @@
 # pr1-Sepulveda-Gonzalez-Angel-Alejandro-3W-1215
+
 print("Sepulveda Gonzalez Angel Alejandro, 3W")
 # 1. Función que muestra el saludo "Hey amigos!" cuando el usuario presiona una tecla
+
 def saludar_amigos():
-    # Pedimos al usuario que presione una tecla para continuar
-    input("Presiona cualquier tecla para recibir el saludo: ")
-    # Una vez que se presiona una tecla, mostramos el saludo
-    print("Hey amigos!")
+
+  # Pedimos al usuario que presione una tecla para continuar
+    
+   input("Presiona cualquier tecla para recibir el saludo: ")
+    
+  # Una vez que se presiona una tecla, mostramos el saludo
+    
+ print("Hey amigos!")
 
 # Llamamos a la función para que se ejecute
 saludar_amigos()
